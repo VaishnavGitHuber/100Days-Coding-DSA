@@ -3,4 +3,4 @@
 1. Topic: INSERTION SORT
 * DAY 2 : 23/02/2024
 2. Topic: Selection sort
-3. Topic : Insertion Sort
+3. Topic : Bubble Sort
