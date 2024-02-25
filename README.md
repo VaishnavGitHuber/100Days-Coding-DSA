@@ -9,4 +9,7 @@
 6. Topic : Second Largest element
 * Day 3 :24/02/2024
 7. Topic: Singly Linked List adding a New Node at first,last and Middle
+* Day 4: 25/02/2024
+8. Topic: Linear search
+9. Topic: Binary Seatch
   
