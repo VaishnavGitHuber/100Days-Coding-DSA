@@ -12,4 +12,6 @@
 * Day 4: 25/02/2024
 8. Topic: Linear search
 9. Topic: Binary Seatch
+Day5,Day6 - Have solved some problems on codechef and leetcode
+
   
