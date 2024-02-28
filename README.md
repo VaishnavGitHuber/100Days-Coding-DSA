@@ -13,5 +13,8 @@
 8. Topic: Linear search
 9. Topic: Binary Seatch
 * Day5,Day6 - Have solved some problems on codechef and leetcode
+* Day 7 28/02/2024
+10. Number of digits in a number
+11. Sum of digits in  a number
 
   
