@@ -16,5 +16,10 @@
 * Day 7 28/02/2024
 10. Number of digits in a number
 11. Sum of digits in  a number
+* Day 8 29/02/2024
+12. Leetcode: spltting the string in balance string
+13. Leetcode: two sum
+14. Leetcode: Find words containing cahrectors
+15. Leetcode: Jwells and Stones 
 
   
